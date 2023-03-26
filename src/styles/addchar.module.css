@@ -1,0 +1,11 @@
+.collapsed_box{
+    @apply bg-red-300 border-black hidden
+}
+
+.expanded_box{
+    @apply bg-red-300 border-black block
+}
+
+.form_input{
+    @apply bg-gray-500;
+}
